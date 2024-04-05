@@ -1,0 +1,25 @@
+body {
+    background-color: whitesmoke;
+    color: black;
+    margin-top: 20px;
+    border: 20px;
+
+}
+
+h1 {
+    background-color: gray;
+    margin: center;
+    padding: 40px;
+    display: 20px;
+
+}
+
+li {
+}
+
+footer {
+    background-color: gray;
+    margin: 50px;
+    padding: 5%;
+}
+
